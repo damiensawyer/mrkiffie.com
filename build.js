@@ -26,7 +26,7 @@
       alias: 'e',
       describe: 'choose the production env',
       choices: ['prod', 'dev'],
-      default: 'dev'
+      default: 'prod'
     })
     .argv;
 
